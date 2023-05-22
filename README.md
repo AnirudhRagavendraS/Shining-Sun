@@ -1,0 +1,3 @@
+# Shining-Sun
+I am a second year B.Tech student with a passion for machine learning and data preprocessing. I have executed a variety of Python codes in these fields, which I have used in projects and submitted in competitions. These codes are a wonderful source of knowledge, and I am excited to share them on GitHub.
+I believe that my codes can be a valuable resource for other students and professionals in the field of machine learning and data preprocessing. They can be used to learn new techniques, improve existing algorithms, and develop new applications. I am confident that my codes will be well-received on GitHub, and I look forward to hearing from others who use them.
